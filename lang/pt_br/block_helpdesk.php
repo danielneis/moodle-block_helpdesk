@@ -24,8 +24,8 @@
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname']           = 'Contato';
-$string['blockname']            = 'Contato';
+$string['pluginname']           = 'Help desk';
+$string['blockname']            = 'Help desk';
 $string['helpdesk:answer']      = 'Respondente de contatos';
 $string['block/helpdesk:answer']= $string['helpdesk:answer'];
 $string['answerer']             = 'Respondente';
@@ -35,7 +35,7 @@ $string['block/helpdesk:ask']   = $string['helpdesk:ask'];
 $string['helpdesk:view']        = 'Ver um contato';
 $string['helpdesk:addinstance'] = 'Adicionar um bloco contato';
 $string['helpdesk:myaddinstance'] = 'Adicionar um bloco contato do painel';
-$string['helpdesk']             = 'Contato';
+$string['helpdesk']             = 'Help desk';
 $string['ticketinfo']           = 'Detahes do contato';
 $string['ticketid']             = 'Identificação do contato';
 $string['submittedby']          = 'Criado por';
@@ -43,8 +43,8 @@ $string['timecreated']          = 'Criado em';
 $string['status']               = 'Estado';
 $string['anystatus']            = 'Qualquer estado';
 $string['specifics']            = 'Destalhes específicos do contato';
-$string['summary']              = 'Resumo';
-$string['detail']               = 'Detalhes do contato';
+$string['summary']              = 'Assunto';
+$string['detail']               = 'Sua mensagem';
 $string['ticketupdates']        = 'Histórico do contato';
 $string['user']                 = 'Usuário';
 $string['nonmoodleuser']        = '(Usuário externo)';
